@@ -1,0 +1,17 @@
+.zero-padding{
+    padding: 0;
+    margin: 0;
+}
+.header{
+    background-color:#F8F9FA;
+    padding:0px;
+    margin: 0;
+    min-height: 50px;
+}
+
+.footer{
+    background-color: #ffffff;
+    width: 100%;
+    padding: 60px 20px;
+    bottom: 0;
+}

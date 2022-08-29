@@ -1,0 +1,11 @@
+.menubar{
+    background-color: none;
+    padding: 0px;
+    margin: 20px;
+}
+
+nav ul li{
+    margin-left: 20px;
+    text-transform: capitalize;
+    font-weight:400;
+}

@@ -1,0 +1,10 @@
+nav ul li{
+    margin-left: 20px;
+    text-transform: capitalize;
+}
+
+.login{
+    background-color: none;
+    padding: 0px;
+    margin: 20px;
+}

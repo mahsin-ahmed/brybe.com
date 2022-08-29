@@ -1,0 +1,46 @@
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.body_content_one {
+    padding-left: 100px;
+    margin-bottom: 70px;
+}
+
+.body_font {
+    padding-top: 80px;
+    padding-right: 0px;
+    color: black;
+    font-size: 40px;
+    line-height: 1.2em;
+    letter-spacing: -2px;
+    font-weight: 800;
+    font-family: helvetica-w01-bold, helvetica-w02-bold, helvetica-lt-w10-bold, sans-serif;
+}
+
+.slogan {
+    padding-top: 20px;
+    padding-right: 30px;
+}
+
+.svg_font {
+    padding-top: 50px;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+svg {
+    color: #47C06B;
+}
+
+input {
+    color: #ffffff;
+    background: #0d6efd;
+    border: none;
+    border-radius: 5px;
+    padding: 15px;
+    width: 230px;
+    margin-top: 50px;
+    font-weight: 500;
+}

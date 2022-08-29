@@ -1,0 +1,19 @@
+.head_text{
+    padding-top: 50px;
+    text-align: center;
+    font-size: 19px;
+    font-weight: bold;
+}
+.input_button{    
+    text-align: center;
+}
+.input_button a{
+    width: 300px;
+    border-radius: 5px;
+}
+img {
+    padding-top: 20px;
+    width: 426px;
+    height: 237px;
+    margin: auto;
+}

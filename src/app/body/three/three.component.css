@@ -1,0 +1,32 @@
+.body_content_three{
+    background-image: linear-gradient(to right, rgba(252,214,210, 0.05), rgba(252, 214, 210, 0.842));
+    padding-left: 0;
+    padding-right: 0;
+    min-height: 500px;
+}
+
+.img1 img{
+    padding: 80px 0px 50px 120px;
+}
+.top_text{
+    color:black;
+    font-size: 40px;
+    text-align: center;
+    padding: 80px 70px 50px 50px;
+    margin-right: 20px;
+    font-weight: 500;
+}
+p{
+    font-size: 20px;
+    text-align: justify;
+    padding: 0px 70px 0px 50px;
+    margin-right: 20px;
+}
+
+.input_button {    
+    padding: 43px 0px 0px 50px;
+}
+.input_button a{
+    width: 227px;
+    border-radius: 5px;
+}

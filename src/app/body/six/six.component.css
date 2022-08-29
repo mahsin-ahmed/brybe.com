@@ -1,0 +1,21 @@
+.body_content_six{
+    background-color: #f2f2f2;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.head_text{
+    padding-top: 50px;
+    font-size: 32px;
+    font-weight: 900;
+    text-align: center;
+}
+
+.speak{
+    font-size: 33px;
+    text-align: center;
+}
+.citation{
+    text-align: right;
+    padding-bottom: 10px;
+}

@@ -9,6 +9,7 @@ import { HeaderModule } from './header/header.module';
 import { FooterModule } from './footer/footer.module';
 import { AppRoutingModule } from './app-routing.module';
 import { InputsModule } from './inputs/inputs.module';
+import { BodyModule } from './body/body.module';
 
 
 @NgModule({
@@ -22,7 +23,8 @@ import { InputsModule } from './inputs/inputs.module';
     HeaderModule,
     FooterModule,
     AppRoutingModule,
-    InputsModule
+    InputsModule,
+    BodyModule
   ],
   providers: [],
   bootstrap: [AppComponent]

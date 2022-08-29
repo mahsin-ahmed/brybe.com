@@ -1,0 +1,14 @@
+img {
+    padding-top: 20px;
+    width: 200px;
+    height: auto;
+    margin: auto;
+}
+.img1{
+    text-align: center;
+}
+
+.copy_right{
+    padding-top: 20px;
+    text-align: center;
+}
